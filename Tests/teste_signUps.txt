@@ -1,0 +1,7 @@
+1004, 2222, Viorel Alexandra, str.Daliilor nr.8 ap.11, 9000, 2066-09-08, 13:45, nerversea
+1005, 4444, Petrila Ilinca, str.Lunga nr.20 ap.30, 1000, 2003-08-27, 13:45, ec
+1006, 4444, Petrila Ilinca, str.Lunga nr.20 ap.30, 6000, 2003-09-22, 13:45, party bratari
+1007, 4444, Petrila Ilinca, str.Lunga nr.20 ap.30, 8000, 2013-04-04, 13:45, manepica
+1008, 4444, Petrila Ilinca, str.Lunga nr.20 ap.30, 9000, 2066-09-08, 13:45, nerversea
+1009, 3333, Bosinceanu Raul, str.Daliilor nr.8 ap.11, 1000, 2003-08-27, 13:45, ec
+1010, 3333, Bosinceanu Raul, str.Daliilor nr.8 ap.11, 1100, 2053-07-10, 13:45, cumetrie
